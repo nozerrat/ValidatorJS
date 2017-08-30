@@ -1,6 +1,11 @@
 {
   "name": "validator-js",
   "homepage": "https://github.com/nozerrat/validator-js",
+  "authors": [
+    "Carlos Garcia <garlos.figueroa@gmail.com>"
+  ],
+  "description": "Una Librería en Javascript para validar formulario de manera rápida y sencilla.",
+  "license": "MIT",
   "_release": "c286ce6fd4",
   "_resolution": {
     "type": "branch",
