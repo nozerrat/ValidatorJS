@@ -1,0 +1,14 @@
+{
+  "name": "validator-js",
+  "homepage": "https://github.com/nozerrat/validator-js",
+  "_release": "c286ce6fd4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c286ce6fd49a430adc8c3665f98bb14dc7a6fd63"
+  },
+  "_source": "git://github.com/nozerrat/validator-js.git",
+  "_target": "*",
+  "_originalSource": "nozerrat/validator-js",
+  "_direct": true
+}
